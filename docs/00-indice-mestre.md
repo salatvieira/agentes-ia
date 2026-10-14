@@ -72,3 +72,30 @@ Estudar memória longa para preservar conhecimento, decisões, procedimentos e h
 
 Nenhum agente deve alterar produção, banco de dados, arquivos críticos ou repositórios reais sem revisão humana.
 
+
+
+## Fontes principais
+
+### Machine Learning Mastery
+
+Fonte inicial para entender a construção de agentes locais com modelos pequenos, Python, Ollama e ferramentas.
+
+### Hermes Agent
+
+Ferramenta a ser avaliada como agente executor pronto. O foco será entender recursos, riscos, limites, skills, memória e automações.
+
+### ai-memory
+
+Projeto a ser estudado como referência para memória longa, handoff, continuidade e documentação versionada entre agentes e projetos.
+
+## Estratégia de aprendizado
+
+A ordem do estudo será:
+
+1. Entender conceitos.
+2. Construir agente simples local.
+3. Adicionar ferramentas e memória curta.
+4. Estudar LangChain e LangGraph.
+5. Avaliar Hermes Agent.
+6. Estudar ai-memory.
+7. Projetar uma arquitetura segura para uso em projetos reais.

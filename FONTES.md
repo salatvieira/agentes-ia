@@ -1,40 +1,71 @@
-\# Fontes do Projeto
+# Fontes do Projeto
 
+Este arquivo registra as fontes principais usadas no projeto Agentes de IA.
 
+## 1. Fonte inicial — construção de agentes locais
 
-\## Fonte inicial
+### Machine Learning Mastery — Building AI Agents with Local Small Language Models
 
+Papel no projeto:
 
+- Servir como ponto de partida conceitual.
+- Introduzir a ideia de agentes locais.
+- Mostrar uma trilha inicial com modelos pequenos, Python, Ollama e ferramentas.
+- Ajudar a diferenciar chatbot simples de agente com ferramentas.
 
-\- Machine Learning Mastery — Building AI Agents with Local Small Language Models  
+Como será usado:
 
-&#x20; Tema: construção de agentes locais com modelos pequenos.
+- Base para os chats de conceitos.
+- Base para os primeiros experimentos locais.
+- Referência inicial, não fonte única ou definitiva.
 
+---
 
+## 2. Agente executor — Hermes Agent
 
-\## Agente executor para avaliação
+### Nous Research — Hermes Agent
 
+Papel no projeto:
 
+- Servir como exemplo de agente executor pronto.
+- Permitir avaliar recursos como terminal, ferramentas, skills, memória, automações e execução de tarefas.
+- Ajudar a comparar um agente construído manualmente com um agente pronto.
 
-\- Hermes Agent — Nous Research  
+Como será usado:
 
-&#x20; Tema: agente executor com ferramentas, skills, memória, automações e loop de aprendizado.
+- Não será o primeiro agente construído.
+- Será avaliado depois dos fundamentos.
+- Será testado com cuidado, sem acesso automático a produção, secrets ou alterações críticas.
 
+---
 
+## 3. Memória longa — ai-memory
 
-\## Memória longa para agentes
+### Fabio Akita — ai-memory
 
+Papel no projeto:
 
+- Estudar memória longa para agentes.
+- Entender handoff entre sessões e agentes.
+- Avaliar uso de wiki Markdown versionada como memória durável.
+- Comparar memória de agente com documentação auditável.
 
-\- ai-memory — Fabio Akita  
+Como será usado:
 
-&#x20; Tema: memória longa, handoff, wiki versionada, continuidade entre agentes e projetos.
+- Como referência para continuidade de contexto.
+- Como inspiração para registrar decisões, procedimentos, gotchas e aprendizados.
+- Como ponte entre agentes, repositórios e documentação.
 
+---
 
+## 4. Critério de uso das fontes
 
-\## Artigos relacionados
+As fontes serão usadas com papéis diferentes:
 
+| Fonte | Papel |
+|---|---|
+| Machine Learning Mastery | Fundamento e construção inicial |
+| Hermes Agent | Avaliação de agente executor pronto |
+| ai-memory | Memória longa, handoff e continuidade |
 
-
-\- AI Memory — Memória de longo prazo, Karpathy Wiki, autoaprendizado, Hermes e projetos.
-
+Nenhuma fonte será usada como solução automática sem análise crítica.
